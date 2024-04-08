@@ -671,31 +671,8 @@ body {
 
 
 
-.main .center .loard button{
-    background: none;
-    padding: 5px 20px;
-    border: 1px solid #919191;
-    color: #919191;
-    border-radius: 5px;
-    cursor: pointer;
-}
-
-.main .center .end{
-    font-size: 15px;
-    text-align: center;
-    color: #919191;
-    margin: 10px 0;
-}
-
-.main .center .end span{
-    margin-left: 8px;
-    color: #45abff;
-}
-
-.main .center .end span i{
-    margin-right: 8px;
-}
-
+ 
+ 
 
 
 
